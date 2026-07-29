@@ -1,6 +1,7 @@
-Smart Loan Assessment —
+- Smart Loan Assessment —
 
--- technology ----
+-
+technology
 Python — development
 Pandas — data handling
 NumPy — numerical operations
