@@ -1,16 +1,5 @@
 - Smart Loan Assessment —
 
--
-technology
-Python — development
-Pandas — data handling
-NumPy — numerical operations
-Scikit-learn — machine learning
-Logistic Regression — prediction model
-One-Hot Encoding — categorical variables
-StandardScaler — feature scaling
-Streamlit — web interface
--------------------------------------------
 
 Dataset:
 You used the German Credit Dataset.
